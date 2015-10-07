@@ -2,6 +2,8 @@ package org.jcc.patterns.creational.abstractfactory;
 
 import java.util.Calendar;
 
+import org.junit.Test;
+
 public class CountrySaladFactoryTest {
 
 	public static Salad getSalad(CountrySaladFactory countrySaladFactory) {
@@ -22,7 +24,8 @@ public class CountrySaladFactoryTest {
 		System.out.println("The Salad of the day in " + countryName + " is " + saladName + " salad.");
 	}
 
-	public static void main(String args[]) {
+	@Test
+	public void test() {
 		print(new AmericanSaladFactory());
 		print(new MexicanSaladFactory());
 	}
