@@ -1,0 +1,23 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>org.jcc</groupId>
+	<artifactId>java-design-patterns</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>Java Design Patterns</name>
+	<description>A Series of Design patterns in Java that represent the best practices used in Object-oriented programming (OOP).</description>
+	<developers>
+		<developer>
+			<id>juancarlos</id>
+			<name>Juan Carlos Carrillo</name>
+			<email>jccarrillo@acm.org</email>
+			<roles>
+				<role>Architect</role>
+				<role>Evangelist</role>
+			</roles>
+		</developer>
+	</developers>
+	<scm>
+		<url>https://github.com/jccarrillo/java-design-patterns.git</url>
+	</scm>
+</project>
