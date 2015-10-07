@@ -11,6 +11,6 @@ readability for coders and architects who are familiar with patterns.
 Classification
 --------------
 
-# Creational patterns
+### Creational patterns
 
-* [Abstract factory pattern]
+* [Abstract factory pattern](https://github.com/jccarrillo/java-design-patterns/tree/master/creational/abstract_factory)
