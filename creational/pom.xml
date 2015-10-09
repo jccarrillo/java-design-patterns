@@ -11,5 +11,6 @@
 	<packaging>pom</packaging>
 	<modules>
 		<module>abstract_factory</module>
+		<module>factory_method</module>
 	</modules>
 </project>
