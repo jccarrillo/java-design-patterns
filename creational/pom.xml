@@ -14,5 +14,6 @@
 		<module>factory_method</module>
 		<module>prototype</module>
 		<module>builder</module>
+		<module>singleton</module>
 	</modules>
 </project>
