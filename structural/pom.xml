@@ -10,10 +10,12 @@
 	</parent>
 	<packaging>pom</packaging>
 	<modules>
-		<module>abstract_factory</module>
-		<module>factory_method</module>
-		<module>prototype</module>
-		<module>builder</module>
-		<module>singleton</module>
+		<module>adapter</module>
+		<module>bridge</module>
+		<module>composite</module>
+		<module>decorator</module>
+		<module>facade</module>
+		<module>flyweight</module>
+		<module>proxy</module>
 	</modules>
 </project>

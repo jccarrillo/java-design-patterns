@@ -22,6 +22,7 @@
 
 	<modules>
 		<module>creational</module>
+		<module>structural</module>
 	</modules>
 
 	<build>
