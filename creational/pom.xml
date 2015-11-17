@@ -15,5 +15,6 @@
 		<module>prototype</module>
 		<module>builder</module>
 		<module>singleton</module>
+		<module>object-pool</module>
 	</modules>
 </project>
